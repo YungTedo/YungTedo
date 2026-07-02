@@ -46,13 +46,13 @@ LLM-powered automation with agentic RAG pipelines, vector-database retrieval, an
 
 <sub>Triggers & Handler Frameworks · Batch/Async Apex · Platform Events · Named &amp; External Credentials · External Client Apps · Custom Metadata Types · CPQ</sub>
 
-<br/><br/>
+<br/>
 
 **Frontend**
 
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/> <img src="https://img.shields.io/badge/react%20native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img src="https://img.shields.io/badge/expo-1C2024?style=for-the-badge&logo=expo&logoColor=white"/>
 
-<br/><br/>
+<br/>
 
 **Backend & Data**
 
@@ -60,7 +60,7 @@ LLM-powered automation with agentic RAG pipelines, vector-database retrieval, an
 
 <sub>REST APIs · API Development</sub>
 
-<br/><br/>
+<br/>
 
 **AI & Automation**
 
@@ -68,15 +68,15 @@ LLM-powered automation with agentic RAG pipelines, vector-database retrieval, an
 
 <sub>Generative AI · Agentic AI · Retrieval-Augmented Generation (RAG) · LLMs · Vector Databases · Prompt Engineering · Data Scraping · Data Analytics</sub>
 
-<br/><br/>
+<br/>
 
 **Tools & DevOps**
 
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white"/> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
 
-<sub>CI/CD</sub>
+<sub>**CI/CD**</sub>
 
-<br/><br/>
+<br/>
 
 **Foundations**
 
@@ -86,21 +86,11 @@ LLM-powered automation with agentic RAG pipelines, vector-database retrieval, an
 
 <br/>
 
-<div align="center">
-
-### :top: Top Contributed Repo
-
-<img src="https://github-contributor-stats.vercel.app/api?username=YungTedo&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
-
-</div>
-
-<br/>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2B32B2,100:1488CC&height=100&section=footer" width="100%"/>
 
 <div align="center">
 
-<a href="https://visitcount.itsvg.in"><img src="https://komarev.com/ghpvc/?username=YungTedo&icon=1&color=4"/></a>
+<a href="https://visitcount.itsvg.in"><img src="https://komarev.com/ghpvc/?username=YungTedo&icon=1&color=blueviolet"/></a>
 
 <sub>Proudly crafted with ✨ and a lot of Apex</sub>
 
